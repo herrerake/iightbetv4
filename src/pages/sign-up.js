@@ -75,9 +75,9 @@ export default function SignUp() {
         <div className="flex flex-col items-center bg-white p-4 border border-gray-primary mb-4 rounded">
           <h1 className="flex justify-center w-full">
             <img
-              src="/images/logo.png"
+              src="/images/iight-bet-logo.png"
               alt="iight Bet"
-              className="mt-2 w-6/12 mb-4"
+              className="w-6/12"
             />
           </h1>
 

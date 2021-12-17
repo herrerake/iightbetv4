@@ -42,9 +42,9 @@ export default function Login() {
         <div className="flex flex-col items-center bg-white p-4 border border-gray-primary mb-4 rounded">
           <h1 className="flex justify-center w-full">
             <img
-              src="/images/logo.png"
-              alt="Instagram"
-              className="mt-2 w-6/12 mb-4"
+              src="/images/iight-bet-logo.png"
+              alt="iight Bet"
+              className="w-6/12"
             />
           </h1>
 

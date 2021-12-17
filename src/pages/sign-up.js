@@ -64,14 +64,14 @@ export default function SignUp() {
   }, []);
 
   return (
-    <div className="container flex mx-auto max-w-screen-md items-center h-screen">
-      <div className="flex w-3/5">
+    <div className="container mx-auto max-w-screen-md items-center h-screen">
+      <div className="flex">
         <img
           src="/images/iphone-iightbet.png"
           alt="iPhone with iight Bet app"
         />
       </div>
-      <div className="flex flex-col w-2/5">
+      <div className="flex flex-col">
         <div className="flex flex-col items-center bg-white p-4 border border-gray-primary mb-4 rounded">
           <h1 className="flex justify-center w-full">
             <img

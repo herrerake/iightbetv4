@@ -5,7 +5,7 @@ import SignUpForm from "../components/sign-up-form";
 import UserContext from "../context/user";
 
 export default function Dashboard() {
-//   const { firebase } = useContext(FirebaseContext);
+  //   const { firebase } = useContext(FirebaseContext);
   const { user } = useContext(UserContext);
 
   useEffect(() => {
